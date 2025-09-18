@@ -1,0 +1,113 @@
+id,ori_text,ori_label,pattern,highlight
+ss242139,i am still feeling shaky and unnerved by the entire situation,fear,[situation],"[[['situation'], 10, 11]]"
+ss224732,i feel so ducking weird,fear,[situation],
+ss306249,i feel so insecure i know that i just need you like ive never done before,fear,[situation],
+ss247991,i was feeling pretty apprehensive,fear,[situation],
+ss379965,i officials feel americans need to be shaken awake,fear,[situation],
+ss200740,i first looked at it i thought of the gift that it is when we do not worry when we feel peaceful inside,joy,[inside],"[[['inside'], 22, 23]]"
+ss177025,i liked coming home tonight feeling respected rather than pitied for my past by people i havent seen since then,joy,[inside],
+ss68476,im at least feeling quite tranquil these days,joy,[inside],
+ss368361,i am however feeling very positive as im starting to get more teaching requests and i just submitted my class list for vogue live ny,joy,[inside],
+ss260779,i feel the heat for sure,joy,[inside],
+ss372673,i didnt post them as for the most part i feel sympathetic to the gay people i know and find them gentle and kind,love,[kind]|[generous],"[[[], 24, 25]]"
+ss63396,im not feeling particularly generous,love,[kind]|[generous],"[[[], 5, 6]]"
+ss404009,i was feeling a longing so profound it is voiceless it dare not speak or rise toward the surface,love,[kind]|[generous],
+ss221348,i really like it because it makes me feel like im actually devoted to something,love,[kind]|[generous],
+ss63391,im feeling very grateful for my family,love,[kind]|[generous],
+ss230420,i hope it feels supportive to you,love,[kind]|[generous],
+ss104759,i feel that there are two main factors listless it,sadness,[lousy]|[unfortunate],
+ss77870,i had missed while i was feeling so lousy,sadness,[lousy]|[unfortunate],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[lousy]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[lousy]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[unfortunate],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[unfortunate],
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[listless]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[lousy],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[lousy],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[lousy],
+ss251117,got a package from my parents,sadness,[listless]|[lousy],
+ss242139,i am still feeling shaky and unnerved by the entire situation,fear,[situation],"[[['situation'], 10, 11]]"
+ss224732,i feel so ducking weird,fear,[situation],
+ss306249,i feel so insecure i know that i just need you like ive never done before,fear,[situation],
+ss247991,i was feeling pretty apprehensive,fear,[situation],
+ss379965,i officials feel americans need to be shaken awake,fear,[situation],
+ss200740,i first looked at it i thought of the gift that it is when we do not worry when we feel peaceful inside,joy,[inside],"[[['inside'], 22, 23]]"
+ss177025,i liked coming home tonight feeling respected rather than pitied for my past by people i havent seen since then,joy,[inside],
+ss68476,im at least feeling quite tranquil these days,joy,[inside],
+ss368361,i am however feeling very positive as im starting to get more teaching requests and i just submitted my class list for vogue live ny,joy,[inside],
+ss260779,i feel the heat for sure,joy,[inside],
+ss372673,i didnt post them as for the most part i feel sympathetic to the gay people i know and find them gentle and kind,love,[kind]|[generous],"[[[], 24, 25]]"
+ss63396,im not feeling particularly generous,love,[kind]|[generous],"[[[], 5, 6]]"
+ss404009,i was feeling a longing so profound it is voiceless it dare not speak or rise toward the surface,love,[kind]|[generous],
+ss221348,i really like it because it makes me feel like im actually devoted to something,love,[kind]|[generous],
+ss63391,im feeling very grateful for my family,love,[kind]|[generous],
+ss230420,i hope it feels supportive to you,love,[kind]|[generous],
+ss104759,i feel that there are two main factors listless it,sadness,[lousy]|[unfortunate],
+ss77870,i had missed while i was feeling so lousy,sadness,[lousy]|[unfortunate],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[lousy]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[lousy]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[unfortunate],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[unfortunate],
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[listless]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[lousy],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[lousy],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[lousy],
+ss251117,got a package from my parents,sadness,[listless]|[lousy],
+ss242139,i am still feeling shaky and unnerved by the entire situation,fear,[situation],"[[['situation'], 10, 11]]"
+ss224732,i feel so ducking weird,fear,[situation],
+ss306249,i feel so insecure i know that i just need you like ive never done before,fear,[situation],
+ss247991,i was feeling pretty apprehensive,fear,[situation],
+ss379965,i officials feel americans need to be shaken awake,fear,[situation],
+ss200740,i first looked at it i thought of the gift that it is when we do not worry when we feel peaceful inside,joy,[inside],"[[['inside'], 22, 23]]"
+ss177025,i liked coming home tonight feeling respected rather than pitied for my past by people i havent seen since then,joy,[inside],
+ss68476,im at least feeling quite tranquil these days,joy,[inside],
+ss368361,i am however feeling very positive as im starting to get more teaching requests and i just submitted my class list for vogue live ny,joy,[inside],
+ss260779,i feel the heat for sure,joy,[inside],
+ss372673,i didnt post them as for the most part i feel sympathetic to the gay people i know and find them gentle and kind,love,[kind]|[generous],"[[[], 24, 25]]"
+ss63396,im not feeling particularly generous,love,[kind]|[generous],"[[[], 5, 6]]"
+ss404009,i was feeling a longing so profound it is voiceless it dare not speak or rise toward the surface,love,[kind]|[generous],
+ss221348,i really like it because it makes me feel like im actually devoted to something,love,[kind]|[generous],
+ss63391,im feeling very grateful for my family,love,[kind]|[generous],
+ss230420,i hope it feels supportive to you,love,[kind]|[generous],
+ss104759,i feel that there are two main factors listless it,sadness,[lousy]|[unfortunate],
+ss77870,i had missed while i was feeling so lousy,sadness,[lousy]|[unfortunate],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[lousy]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[lousy]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[unfortunate],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[unfortunate],
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[listless]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[lousy],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[lousy],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[lousy],
+ss251117,got a package from my parents,sadness,[listless]|[lousy],
+ss242139,i am still feeling shaky and unnerved by the entire situation,fear,[situation],"[[['situation'], 10, 11]]"
+ss224732,i feel so ducking weird,fear,[situation],
+ss306249,i feel so insecure i know that i just need you like ive never done before,fear,[situation],
+ss247991,i was feeling pretty apprehensive,fear,[situation],
+ss379965,i officials feel americans need to be shaken awake,fear,[situation],
+ss200740,i first looked at it i thought of the gift that it is when we do not worry when we feel peaceful inside,joy,[inside],"[[['inside'], 22, 23]]"
+ss177025,i liked coming home tonight feeling respected rather than pitied for my past by people i havent seen since then,joy,[inside],
+ss68476,im at least feeling quite tranquil these days,joy,[inside],
+ss368361,i am however feeling very positive as im starting to get more teaching requests and i just submitted my class list for vogue live ny,joy,[inside],
+ss260779,i feel the heat for sure,joy,[inside],
+ss372673,i didnt post them as for the most part i feel sympathetic to the gay people i know and find them gentle and kind,love,[kind]|[generous],"[[[], 24, 25]]"
+ss63396,im not feeling particularly generous,love,[kind]|[generous],"[[[], 5, 6]]"
+ss404009,i was feeling a longing so profound it is voiceless it dare not speak or rise toward the surface,love,[kind]|[generous],
+ss221348,i really like it because it makes me feel like im actually devoted to something,love,[kind]|[generous],
+ss63391,im feeling very grateful for my family,love,[kind]|[generous],
+ss230420,i hope it feels supportive to you,love,[kind]|[generous],
+ss104759,i feel that there are two main factors listless it,sadness,[lousy]|[unfortunate],
+ss77870,i had missed while i was feeling so lousy,sadness,[lousy]|[unfortunate],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[lousy]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[lousy]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[unfortunate],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[unfortunate],
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[unfortunate],"[[['unfortunate'], 6, 7]]"
+ss251117,got a package from my parents,sadness,[listless]|[unfortunate],
+ss104759,i feel that there are two main factors listless it,sadness,[listless]|[lousy],"[[['listless'], 8, 9]]"
+ss77870,i had missed while i was feeling so lousy,sadness,[listless]|[lousy],"[[['lousy'], 8, 9]]"
+ss75046,i feel its a regret and unfortunate,sadness,[listless]|[lousy],
+ss251117,got a package from my parents,sadness,[listless]|[lousy],
